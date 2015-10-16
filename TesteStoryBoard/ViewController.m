@@ -24,4 +24,11 @@
     // Dispose of any resources that can be recreated.
 }
 
+-(void) prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender{
+    SegundoViewController *destino = [segue destinationViewController];
+    destino.txtSegundoLabel = @"Chegou da Primeira Tela";
+
+    
+}
+
 @end

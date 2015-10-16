@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "SegundoViewController.h"
 
 @interface ViewController : UIViewController
 
