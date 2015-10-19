@@ -33,6 +33,9 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                     </view>
                     <navigationItem key="navigationItem" id="vpL-W9-9sS"/>
+                    <connections>
+                        <outlet property="txtLabelPrimeiro" destination="9Bz-zt-7cB" id="e1m-SY-waH"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
