@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DA2D6D3C1BCED17C00959FC0 /* SegundoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DA2D6D3B1BCED17C00959FC0 /* SegundoViewController.m */; settings = {ASSET_TAGS = (); }; };
 		DAE9D6681BC3142E00C3341E /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE9D6671BC3142E00C3341E /* main.m */; };
 		DAE9D66B1BC3142E00C3341E /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE9D66A1BC3142E00C3341E /* AppDelegate.m */; };
 		DAE9D66E1BC3142E00C3341E /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = DAE9D66D1BC3142E00C3341E /* ViewController.m */; };
@@ -37,8 +36,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		DA2D6D3A1BCED17C00959FC0 /* SegundoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SegundoViewController.h; sourceTree = "<group>"; };
-		DA2D6D3B1BCED17C00959FC0 /* SegundoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SegundoViewController.m; sourceTree = "<group>"; };
 		DAE9D6631BC3142E00C3341E /* TesteStoryBoard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TesteStoryBoard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DAE9D6671BC3142E00C3341E /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		DAE9D6691BC3142E00C3341E /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -110,8 +107,6 @@
 				DAE9D66A1BC3142E00C3341E /* AppDelegate.m */,
 				DAE9D66C1BC3142E00C3341E /* ViewController.h */,
 				DAE9D66D1BC3142E00C3341E /* ViewController.m */,
-				DA2D6D3A1BCED17C00959FC0 /* SegundoViewController.h */,
-				DA2D6D3B1BCED17C00959FC0 /* SegundoViewController.m */,
 				DAE9D66F1BC3142E00C3341E /* Main.storyboard */,
 				DAE9D6751BC3142E00C3341E /* Assets.xcassets */,
 				DAE9D6771BC3142E00C3341E /* LaunchScreen.storyboard */,
@@ -284,7 +279,6 @@
 				DAE9D66E1BC3142E00C3341E /* ViewController.m in Sources */,
 				DAE9D66B1BC3142E00C3341E /* AppDelegate.m in Sources */,
 				DAE9D6741BC3142E00C3341E /* TesteStoryBoard.xcdatamodeld in Sources */,
-				DA2D6D3C1BCED17C00959FC0 /* SegundoViewController.m in Sources */,
 				DAE9D6681BC3142E00C3341E /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -509,7 +503,6 @@
 				DAE9D6951BC3142E00C3341E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 		DAE9D6961BC3142E00C3341E /* Build configuration list for PBXNativeTarget "TesteStoryBoardTests" */ = {
 			isa = XCConfigurationList;
@@ -518,7 +511,6 @@
 				DAE9D6981BC3142E00C3341E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 		DAE9D6991BC3142E00C3341E /* Build configuration list for PBXNativeTarget "TesteStoryBoardUITests" */ = {
 			isa = XCConfigurationList;
@@ -527,7 +519,6 @@
 				DAE9D69B1BC3142E00C3341E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
